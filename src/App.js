@@ -27,7 +27,7 @@ function App() {
 
         <h1> Grazy Passagens </h1>
         <p> Conheça o Mundo pelo melhor preço! </p>
-        <button  > Contato </button>
+        
         <button onClick= {()=>adicionacredito()} > Adicionar Crédito </button>
 
         <p> Seu crédito é de R$ <strong> { credito } </strong> </p>
