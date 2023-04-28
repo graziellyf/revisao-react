@@ -6,10 +6,10 @@ Aula de revisao usando javascript puro e um pouco de html
 Essa atividade foi de compra de passagens.
 
 Comandos usados:
-- useState _(react)_
+- useState __(react)__
 -Funções 
 -Variaveis 
 
 # GitHub
 
-nessa aula aprendemos tambem como usar GitHub.
+nessa aula aprendemos tambem como usar _GitHub_.
