@@ -35,7 +35,7 @@ function App() {
         <h2> Viagens </h2>
         <p> California- R$ 1200 <button onClick= {()=>comprapassagem(1200)}> Comprar </button></p>
         <p> Londres - R$ 1420 <button onClick= {()=>comprapassagem(1420)}> Comprar </button></p>
-        <p> França - R$ 1700 <button onClick= {()=>comprapassagem(1420)}> Comprar </button></p>
+        <p> França - R$ 1700 <button onClick= {()=>comprapassagem(1700)}> Comprar </button></p>
 
     </div>
   );
